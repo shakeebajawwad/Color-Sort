@@ -1,0 +1,8 @@
+{
+  "name": "ChromaSort",
+  "description": "A polished and addictive color sorting puzzle game with modern clean aesthetics, featuring 20+ levels and smooth liquid animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
